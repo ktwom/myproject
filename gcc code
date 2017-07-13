@@ -1,2 +1,0 @@
-cgi mode(it can run in Aapche CGI-BIN):
-gcc -o cMysql.cgi $(mysql_config --cflags) cMysql.c $(mysql_config --libs) -lm
